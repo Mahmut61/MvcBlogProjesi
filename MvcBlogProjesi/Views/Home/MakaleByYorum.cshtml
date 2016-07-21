@@ -1,0 +1,17 @@
+﻿@model MvcBlogProjesi.DataModel.Makale
+
+@{
+    ViewBag.Title = "MakaleByYorum";
+}
+
+<h2>İlgili Makale</h2>
+
+<div style="width:100%; margin-top:25px; box-shadow:0 0 5px gray; padding:25px">
+    <h3 style="color:red">@Html.DisplayFor(m => Model.Baslik)</h3>
+    <hr />
+    @Html.Raw(Model.Icerik)
+    <strong>Tarih : @Model.Tarih</strong><hr />
+    <h4>Makaleyi Yazan</h4>
+    @{ string adsoyad = Model.Uye.Ad + " " + Model.Uye.Soyad;}
+    @adsoyad
+</div>

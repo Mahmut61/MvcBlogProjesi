@@ -1,0 +1,13 @@
+﻿@model List<MvcBlogProjesi.DataModel.Makale>
+
+<h3>Son Eklenen Makaleler</h3>
+@foreach (var item in Model)
+{
+    <div style="border:1px solid black">
+        <h3>@item.Baslik</h3>
+        @*<p>@item.Icerik</p>*@
+        @Html.Raw(@item.Icerik)
+        <strong>Tarih : @item.Tarih</strong>
+    </div>
+}
+

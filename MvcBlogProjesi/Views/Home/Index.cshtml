@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<br /><br />
+<div style="float:left; width:75%">
+    @Html.Action("SonMakaleler", "Home")
+</div>
+<div style="float:left; width:25%">
+    @Html.Action("SonYorumlar", "Home")
+    @Html.Action("CokKullanilanEtiketler", "Home")
+</div>

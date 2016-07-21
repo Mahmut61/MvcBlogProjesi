@@ -1,0 +1,51 @@
+﻿
+@{
+    ViewBag.Title = "UyeGiris";
+}
+@*Microsoft Jquery unobtrusive-ajax sınıfı mutlaka projeye yüklenmeli.*@ 
+<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+
+@section scripts{
+    <style type="text/css">
+        #formGenel {
+            box-shadow: 0 0 5px gray;
+            padding: 25px;
+            height: 500px;
+        }
+
+        #divSol, #divSag {
+            float: left;
+            margin-left: 25px;
+        }
+
+        input[type=text] {
+            width: 250px;
+        }
+
+        input[type=password] {
+            width: 250px;
+        }
+
+        #btnGiris {
+            clear: both;
+            display: block;
+            margin-left: 130px;
+        }
+        #divSonuc{color:red}
+    </style>
+}
+<h2>Üye Giriş</h2>
+@using (Ajax.BeginForm("UyeGiris", "Uyelik", new AjaxOptions { HttpMethod = "Post", UpdateTargetId = "divSonuc" }, new { id = "formGenel" }))
+{
+    <div id="divSol">
+        @Html.Label("Email")<br /><br />
+        @Html.Label("Şifre")<br /><br />
+    </div>
+    <div id="divSag">
+        @Html.TextBox("Email")<br /><br />
+        @Html.TextBox("Sifre", null, new { type = "Password" })<br /><br />
+    </div>
+    <input type="submit" value="Üye Giriş" id="btnGiris" />
+    <div id="divSonuc"></div>
+}
+

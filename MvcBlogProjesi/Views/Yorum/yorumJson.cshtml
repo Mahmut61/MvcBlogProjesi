@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "yorumJson";
+}
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<h2>yorumJson</h2>
+
+<div>@Html.Label("Yorum ID ") @Html.TextBox("YorumId")</div>
+<div>@Html.Label("Yorum İçerik ") @Html.TextBox("Icerik")</div>
+<div>@Html.Label("Yorum Tarihi ") @Html.TextBox("Tarih")</div>
+<div><input id="btnGonder" type="submit" value="Yorum Json olarak Gönder" /></div>
+
+<script type="text/javascript">
+    $('#btnGonder').click(function () {
+        var Yorum =
+            {
+                YorumId: $('#YorumId').val(),
+                Icerik: $('#Icerik').val(),
+                Tarih: $('#Tarih').val()
+            };
+        $.ajax(
+        {
+            url:'/Yorum/GelenYorum',
+            type:'Post',
+            data: JSON.stringify(Yorum),
+            datatype: 'Json',
+            contentType:'application/json; charset=utf-8'
+        })
+        return false;
+    })
+</script>

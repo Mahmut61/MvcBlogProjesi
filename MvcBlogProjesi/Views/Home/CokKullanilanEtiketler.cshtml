@@ -1,0 +1,12 @@
+﻿@model List<MvcBlogProjesi.DataModel.Etiket>
+
+<h3>Çok Kullanılan Etiketler</h3>
+@foreach (var item in Model)
+{
+    <div style="border:1px solid black">
+        <ul>
+            <li><h5>@Html.ActionLink(item.Icerik, "MakalelerByEtiket", new {id = item.EtiketId })</h5></li>
+        </ul>
+    </div>
+}
+

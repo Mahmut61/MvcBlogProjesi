@@ -1,0 +1,21 @@
+﻿@model List<MvcBlogProjesi.DataModel.Yorum>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Tüm Yorumlar</h2>
+
+@foreach (var item in Model)
+{
+    <div style="width:100%; margin-top:25px; border:1px solid gray; padding:25px; text-align:center">
+        <h3>Üye Bilgileri</h3>
+        @{ string adsoyad = item.Uye.Ad + " " + item.Uye.Soyad;}
+        @Html.Label("Adı ve Soyadı : ")&nbsp;&nbsp;&nbsp;@adsoyad
+        <h3>Makale Bilgileri</h3>
+        @Html.DisplayFor(m => item.Makale.Baslik)
+        <h3>Yorumun İçeriği</h3>
+        @Html.Raw(@item.Icerik)<hr />
+    </div>
+            }
+

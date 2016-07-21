@@ -1,0 +1,22 @@
+﻿@model List<MvcBlogProjesi.DataModel.Makale>
+
+@{
+    ViewBag.Title = "MakalelerByEtiket";
+}
+
+<h2>İlgili Makaleler</h2>
+
+
+@foreach (var item in Model)
+{
+    <div style="width:100%; margin-top:25px; box-shadow:0 0 5px gray; padding:25px">
+        <h3 style="color:red">@Html.DisplayFor(m => item.Baslik)</h3>
+        <hr />
+        @Html.Raw(@item.Icerik)
+        <strong>Tarih : @item.Tarih</strong><hr />
+        <h4>Makaleyi Yazan</h4>
+        @{ string adsoyad = item.Uye.Ad + " " + item.Uye.Soyad;}
+        @adsoyad
+    </div>
+}
+

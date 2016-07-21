@@ -1,0 +1,88 @@
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\csc.exe
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\vbc.exe
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\MvcBlogProjesi.dll.config
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\MvcBlogProjesi.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\MvcBlogProjesi.pdb
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\Antlr3.Runtime.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\EntityFramework.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\EntityFramework.SqlServer.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\Newtonsoft.Json.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.Helpers.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.Mvc.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.Optimization.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.Razor.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.WebPages.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\WebGrease.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\EntityFramework.xml
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\EntityFramework.SqlServer.xml
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.Helpers.xml
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.Mvc.xml
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.Optimization.xml
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.Razor.xml
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.WebPages.xml
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\Antlr3.Runtime.pdb
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\bin\Newtonsoft.Json.xml
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\obj\Debug\MvcBlogProjesi.dll
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\obj\Debug\MvcBlogProjesi.pdb
+C:\Users\student2\Documents\MS-YAZ-8\MvcBlogProjesi\MvcBlogProjesi\obj\Debug\MvcBlogProjesi.csprojResolveAssemblyReference.cache
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\csc.exe
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\vbc.exe
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\MvcBlogProjesi.dll.config
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\MvcBlogProjesi.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\MvcBlogProjesi.pdb
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\Antlr3.Runtime.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\EntityFramework.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\EntityFramework.SqlServer.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\Newtonsoft.Json.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.Helpers.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.Mvc.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.Optimization.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.Razor.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.WebPages.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.WebPages.Razor.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\WebGrease.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\EntityFramework.xml
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\EntityFramework.SqlServer.xml
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.Helpers.xml
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.Mvc.xml
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.Optimization.xml
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.Razor.xml
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.WebPages.xml
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\System.Web.WebPages.Razor.xml
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\Antlr3.Runtime.pdb
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\bin\Newtonsoft.Json.xml
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\obj\Debug\MvcBlogProjesi.csprojResolveAssemblyReference.cache
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\obj\Debug\MvcBlogProjesi.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\MvcBlogProjesi\MvcBlogProjesi\obj\Debug\MvcBlogProjesi.pdb

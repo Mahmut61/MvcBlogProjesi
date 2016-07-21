@@ -1,0 +1,23 @@
+﻿@model MvcBlogProjesi.DataModel.Uye
+
+@{
+    ViewBag.Title = "Index";
+}
+<script src="~/Scripts/jquery-1.10.2.min.js"></script>
+<h2>Üye Listesi</h2>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('#btnUyeGetir').click(function () {
+            $.getJSON("/Uyelik/UyeListesi", function (data) {
+                $.each(data, function (i, eleman) {
+                    $("#divUyeListesi").append((i + 1) + ".üye :" + eleman.uye + ", email : " + eleman.email + "<br/>");
+                });
+            });
+        });
+    });
+
+</script>
+
+<input type="submit" value="Üyeleri Listele" id="btnUyeGetir" />
+<div id="divUyeListesi"></div>
+

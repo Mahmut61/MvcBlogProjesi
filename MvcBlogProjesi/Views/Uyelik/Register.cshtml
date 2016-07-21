@@ -1,0 +1,53 @@
+﻿@model MvcBlogProjesi.DataModel.RegisterModel
+
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Üye Kayıt</h2>
+@section scripts{
+    <style type="text/css">
+        #formGenel{
+            box-shadow:0 0 5px gray;
+            padding:25px;
+            height:500px
+        }
+        #divSol, #divSag{
+            float:left;
+            margin-left:25px
+        }
+        input[type=text]
+        {
+            width:250px;
+        }
+        input[type=password]
+        {
+            width:250px;
+        }
+        #btnUyeOl{
+            clear:both;
+            display:block;
+            margin-left:130px
+        }
+    </style>    
+    }
+@using (Html.BeginForm("Register", "Uyelik", FormMethod.Post, new { id = "formGenel" }))
+{
+    <div id="divSol">
+        @Html.LabelFor(u => Model.Ad)<br /><br />
+        @Html.LabelFor(u => Model.Soyad)<br /><br />
+        @Html.LabelFor(u => Model.Email)<br /><br />
+        @Html.LabelFor(u => Model.Sifre)<br /><br />
+        @Html.LabelFor(u => Model.SifreTekrar)<br /><br />
+    </div>
+    <div id="divSag">
+        @Html.TextBoxFor(u => Model.Ad)<br /><br />
+        @Html.TextBoxFor(u => Model.Soyad)<br /><br />
+        @Html.TextBoxFor(u => Model.Email)<br /><br />
+        @Html.TextBoxFor(u => Model.Sifre, new { type="Password"})<br /><br />
+        @Html.TextBoxFor(u => Model.SifreTekrar, new { type = "Password" })<br /><br />
+    </div>
+    <input type="submit" value="Üye Ol" id="btnUyeOl" />
+    @Html.ValidationSummary()
+}
+
